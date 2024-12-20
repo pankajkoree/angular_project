@@ -28,7 +28,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "tailwind.css"
+              "src/styles/tailwind.css"
             ],
             "scripts": []
           },
